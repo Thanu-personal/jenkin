@@ -53,8 +53,8 @@ Overall, Jenkins is a powerful automation server that can help teams of all size
 
 * [Install Jenkins on windows](#install-jenkins-on-windows)
 * [Install Jenkins with Docker](#install-jenkins-with-docker)
-* [Install Jenkins on MAC OS](#install-jenkins-with-docker)
-* [Install Jenkins on Linux](#install-jenkins-with-docker)
+* Install Jenkins on MAC OS
+* Install Jenkins on Linux
 
 
 ### Install Jenkins on windows
