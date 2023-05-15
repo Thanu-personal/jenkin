@@ -1,0 +1,29 @@
+Contents:
+1. DevOps
+    1.1 steps in DevOps
+2. Jenkins
+    2.1 Introduction
+    2.2 Install jenkins on windows
+    2.3 Getting Started with jenkins
+    2.4 Jenkins Plugins 
+    2.5 Jenkins Job
+        2.5.1 Examples
+3. Pipeline
+    3.1 Jenkins pipeline 
+    3.2 Pipeline concepts
+    3.3 Jenkins file 
+    3.4 Declarative pipeline 
+    3.5 Scripted pipeline 
+3. Jenkins Architecture 
+    3.1 Master-slave Architecture 
+    3.2 Slave(Node) configurations
+    3.3 Slave Node and docker 
+    3.4 Examples 
+4. Advantages 
+5. Disadvantages 
+
+
+
+   
+
+        
