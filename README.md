@@ -143,16 +143,19 @@ Now you have successfully installed jenkins docker & you should be able to acces
 ## Getting Started with Jenkins (Install on windows) 
 
 * Open your browser at localhost 8080
-    ![Unlock Jenkins](img/JenkinStart.png)
+![Unlock Jenkins](img/JenkinStart.png)
+
 * Get the password from the path given above and paste it and click continue 
-    ![Install Plugins](img/InstallPlugins.png)
+![Install Plugins](img/InstallPlugins.png)
+
 * Select **Install suggested plugins** & wait till the process completes
 * Once process completes, it redirects to,
-    ![Create Jenkin User](img/CreateJenkinUser.png)
+![Create Jenkin User](img/CreateJenkinUser.png)
+
 * Create user & fill up the details , save & continue
 * Click save and finish 
 * Now you can access jenkins in localhost:8080 with your created user & password
-    ![Jenkins Home](img/JenkinsHome.png)
+![Jenkins Home](img/JenkinsHome.png)
 
 
 ## Getting Started with Jenkins (Install with docker) 
